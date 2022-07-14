@@ -1,0 +1,138 @@
+{
+    "basics": {
+        "name": "Gaurav Singh",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/104963309?v=4",
+        "email": "2021kucp1098@iiitkota.ac.in",
+        "phone": "+919311569737",
+        "website": "https://thegauravparmar.com",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Building awesome WebApp. I have enthusiasm in Full Stack development.",
+        "location": {
+            "address": "Faridabad",
+            "postalCode": "121003",
+            "city": "Faridabad",
+            "countryCode": " India",
+            "region": "Haryana"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Github",
+                "username": "Biziz123",
+                "url": "https://github.com/Biziz123/Biziz123/tree/main"
+            },
+            {
+                "network": "linkedin",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Instagram",
+                "username": "gauravsingh_1110",
+                "url": "https://www.instagram.com/gauravsingh_1110/?hl=en"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "7.2",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Frontend Developer",
+            "level": "Intermediate",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "MySQL",
+                "Git",
+                "C/C++",
+                "Python"
+                
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                "Guitar"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Badminton"
+            ]
+        }
+    ]
+}
