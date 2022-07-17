@@ -5,7 +5,7 @@
         "picture": "https://avatars.githubusercontent.com/u/104963309?v=4",
         "email": "2021kucp1098@iiitkota.ac.in",
         "phone": "+919311569737",
-        "website": "https://thegauravparmar.com",
+        "website": "",
         "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Building awesome WebApp. I have enthusiasm in Full Stack development.",
         "location": {
             "address": "Faridabad",
@@ -78,8 +78,8 @@
     ],
     "awards": [
         {
-            "title": "",
-            "awarder": "",
+            "title": "Diploma in Music",
+            "awarder": "Prayag Sangeet Samiti, Prayagraj",
             "date": ""
         }
     ],
